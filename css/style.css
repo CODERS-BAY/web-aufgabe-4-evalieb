@@ -1,0 +1,42 @@
+body{
+    background-color: #A89B9D;
+    font-family: Railway, "open sans", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #134611;
+    color: #A89B9D;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #F6F7F8;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #38A700;
+  }
+
+footer {
+    margin-top: 20px;
+}
+
+table{
+    width: 100%;
+
+}
+th{
+    text-align: left;
+}
